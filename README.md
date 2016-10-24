@@ -12,17 +12,29 @@ for teller, to store some normal data which is not so important or should be on 
 The frame for teller is html,jsp,servlet,jdbc,process. This system holds three roles, clients, clerks, managers.  
 
 Actually, this system can finish several functions for a bank, from client interface to database storage.
+
 1.client registeration.
+
 2.create account
+
 3.change password
+
 4.save money
 5.transfer
+
 6.create new loan
+
 7.check account
+
 8.loan drawdown
+
 9.settle pay
+
 10.invoice
+
 11.loan receipt
+
 12.receipt settle
+
 and so on.
 
