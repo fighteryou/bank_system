@@ -8,7 +8,7 @@ for teller, to store some normal data which is not so important or should be on 
 
 We used myecilpse for web development, oracle for database system. In details, we established the tables in database(oracle), and did the development in myecilpse. The server we chose is tomcat,which myecilpse comes with.The frame for teller is html,jsp,servlet,jdbc,process.
 
-Actually, this system can finish several functions for a bank, from client interface to database storage.
+Actually, this system can finish several functions for a bank, from client interface to database storage.<br>
 1.client registeration<br>
 2.create account<br>
 3.change password<br>
